@@ -1,3 +1,5 @@
 # Logs
 
-## Overview
+# Overview
+Create a simple autoencoder for spectra
+
